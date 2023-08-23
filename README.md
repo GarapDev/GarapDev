@@ -1,4 +1,4 @@
-### Welcome to Garap Development
+# Welcome to Garap Development
 
 ## About Us
 Garapdigital.id adalah software house di Depok, berdiri sejak tahun 2022. Kami membantu UMKM di Indonesia dengan layanan teknologi seperti pembuatan
