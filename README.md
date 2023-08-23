@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome to Garap Development
 
-<!--
-**GarapDev/GarapDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Us
+Garapdigital.id adalah software house di Depok, berdiri sejak tahun 2022. Kami membantu UMKM di Indonesia dengan layanan teknologi seperti pembuatan
+website, Mobile Apps, dan Pemasaran Produk untuk mempercepat pertumbuhan bisnis Anda.
 
-Here are some ideas to get you started:
+Efisien: Garap Digital bekerja cepat, efisien dan hemat biaya. Kualitas Top: Garap Digital menawarkan jasa sistem dengan kualitas terbaik. Fleksibel: Garap Digital siap beradaptasi dengan kebutuhan klien.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Vision
+Mewujudkan jaring-jaring dan investasi kebaikan melalui penerapan teknologi informasi untuk seluruh UMKM di Indonesia.
+
+## Credits
+- [See all Contributors](https://github.com/orgs/GarapDigital/people)
